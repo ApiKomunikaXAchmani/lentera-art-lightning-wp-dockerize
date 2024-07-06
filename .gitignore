@@ -1,0 +1,23 @@
+# environment file
+.env
+
+# wordpress files
+# wordpress
+/wordpress/wp-admin/
+# /wordpress/wp-content/index.php
+/wordpress/wp-content/uploads
+/wordpress/wp-content/languages
+# /wordpress/wp-content/plugins/index.php
+# /wordpress/wp-content/themes/index.php
+/wordpress/wp-includes/
+# mysql files
+dbdata
+mysql_data
+sql_import
+
+# logging output
+logs
+
+# macOS and IDE
+.DS_Store
+.idea
